@@ -1,0 +1,1 @@
+This code and subsequent data is work that I had done in conjunction with a research paper done for Excellence in Research at UC Irvine. The paper examines the impact of leaf traits on coastal sage scrub plants such as Specified Leaf Area, Percent Carbon, and Percent Nitrogen on the mass of herbivores found on the plant.
